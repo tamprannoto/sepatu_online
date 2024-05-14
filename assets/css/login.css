@@ -1,0 +1,35 @@
+body {
+    background-color: #f8f9fa; /* Warna latar belakang */
+  }
+
+  .form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    border: 1px solid #ddd; /* Menambahkan bingkai */
+    border-radius: 10px; /* Melengkungkan sudut */
+    background-color: #fff; /* Warna latar belakang form */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Menambahkan bayangan */
+    margin-top: 200px; /* Menambahkan margin-top */
+  }
+
+  .form-signin .form-floating {
+    margin-bottom: 10px;
+  }
+
+  .form-signin input[type="email"],
+  .form-signin input[type="password"] {
+    height: 40px;
+    font-size: 15px;
+    border: 1px solid #ced4da; /* Menambahkan bingkai pada input */
+    border-radius: 5px; /* Melengkungkan sudut input */
+  }
+
+  .form-signin button {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+
+  .form-signin .form-check {
+    font-size: 14px;
+  }
